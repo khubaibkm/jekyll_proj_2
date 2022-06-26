@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to ModernEra: The Jekyll Theme!"
 date:   2022-06-21
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "(https://github.com/khubaibkm/jekyll_proj_1/blob/main/images/pic02.jpg)"
+image: "https://github.com/khubaibkm/jekyll_proj_1/blob/main/images/pic02.jpg"
 ---
 
 ## How to Use This Theme
