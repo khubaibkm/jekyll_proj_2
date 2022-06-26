@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              ModernEra
+bio:                'Jekyll version of the ModernEra theme by HTML5UP'
+description:        "Jekyll version of the ModernEra theme by HTML5UP"
 locale:             en_US
 baseurl: "jekyll_proj_2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,15 +11,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            "https://twitter.com/Khubaib56058732"
+facebook:           "https://www.facebook.com/khubaib.ahmad.90281"
+instagram:          "https://www.instagram.com/_._.khubaib._._/"
+github:             "https://github.com/khubaibkm"
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Lucknow, India
+phone:              9548146599
+email:              khubaibahmadkm@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
